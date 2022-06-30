@@ -1,6 +1,6 @@
 <h1 align="center">QUEEN ELSA WHATSAPP BOT V1<br></h1>
 <p align="center">
-<img src="https://th.bing.com/th/id/R.8067664953e8b0e2699d1313f33ab91a?rik=9cR5AB2KBjRvdQ&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f38500000%2fElsa-elsa-the-snow-queen-38561287-800-1200.jpg&ehk=t3uoaKZSWsxeNluJODLjjS1AyXDvuLTfeIUk4QUgsAA%3d&risl=&pid=ImgRaw&r=0" alt="animated" width="540" height="280" />
+<img src="https://th.bing.com/th/id/R.fe31cf8e8632680764e11ea99d9c9f95?rik=HWKfZsL5hExqgA&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f43000000%2fElsa-elsa-the-snow-queen-43058180-1668-1668.jpg&ehk=E3jMQ%2bepq4yacF%2fhnjZgrqjv%2fU0IlQkEI1wEVq7Hjf8%3d&risl=&pid=ImgRaw&r=0" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
