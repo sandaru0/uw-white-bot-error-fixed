@@ -1,6 +1,6 @@
-<h1 align="center">WHITE KING WHATSAPP BOT V1<br></h1>
+<h1 align="center">QUEEN ELSA WHATSAPP BOT V1<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://i.pinimg.com/originals/02/50/31/025031442df8d7095965e0c227dbde79.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
